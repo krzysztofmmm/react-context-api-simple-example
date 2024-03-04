@@ -1,3 +1,3 @@
 export default function Header({ appName }) {
-    return <h1>{ appName }</h1>
+  return <h1>{appName}</h1>;
 }
